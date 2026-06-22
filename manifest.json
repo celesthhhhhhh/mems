@@ -1,0 +1,14 @@
+{
+  "display_name": "Memory RAG",
+  "name": "memory-rag",
+  "version": "1.0.0",
+  "description": "Долгосрочная память для SillyTavern на основе RAG. Автоматически сохраняет важные события диалога и подключает релевантный контекст к каждому запросу.",
+  "author": "memory-rag",
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "memory-rag.css",
+  "settings_html": "settings.html",
+  "homepage": "https://github.com/your-username/SillyTavern-MemoryRAG",
+  "tags": ["memory", "rag", "embeddings", "context"]
+}
