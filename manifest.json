@@ -1,0 +1,12 @@
+{
+    "display_name": "Memory RAG",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "memory-rag",
+    "version": "1.0.0",
+    "homePage": "https://github.com/your-username/SillyTavern-MemoryRAG",
+    "auto_update": false
+}
